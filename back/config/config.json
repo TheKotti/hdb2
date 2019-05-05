@@ -1,0 +1,10 @@
+{
+  "MYSQL_HOST": "localhost",
+  "MYSQL_PORT": "3306",
+  "MYSQL_DB": "hdb2dev",
+  "MYSQL_USER": "root",
+  "MYSQL_PASSWORD": "",
+  "MYSQL_CONNECTIONLIMIT": "10",
+  "MYSQL_QUEUELIMIT": "0",
+  "SERVER_PORT": "5000"
+}
