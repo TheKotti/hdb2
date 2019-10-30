@@ -98,4 +98,7 @@ typings/
 # Ignore all local history of files
 .history
 
+### JetBrains-specific ###
+.idea
+
 # End of https://www.gitignore.io/api/node,visualstudiocode
